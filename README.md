@@ -13,7 +13,7 @@ VSE is for [Spigot](https://www.spigotmc.org/) servers and adds several enhancem
 See the config.yml for all available configuration options.
 
 # Installation
-Download from the [Releases](https://github.com/jrbudda/Vivecraft_Spigot_Extensions/releases) page. Please ensure you download the correct version of the plugin as they are not backwards compatible.
+Download from the [Releases](https://github.com/Ferrarisrex/Customised-Vivecraft-Paper-Extentions/releases) page. Please ensure you download the correct version of the plugin as they are not backwards compatible.
 
 Install as you would any other Spigot/Bukkit plugin by placing the jar in the /plugins folder. 
 
