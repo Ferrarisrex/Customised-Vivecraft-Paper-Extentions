@@ -11,7 +11,8 @@ VSE is for [Spigot](https://www.spigotmc.org/) servers and adds several enhancem
  - Option to limit server to Vivecraft players only.
 
 See the config.yml for all available configuration options.
-
+# Differences
+- Slightly more optimised.
 # Installation
 Download from the [Releases](https://github.com/Ferrarisrex/Customised-Vivecraft-Paper-Extentions/releases) page. Please ensure you download the correct version of the plugin as they are not backwards compatible.
 
